@@ -62,7 +62,7 @@ const Footer = () => {
             </a>
             <a
               onClick={() =>
-                handleDelayedLinkClick("https://github.com/sudhanshusekhar56")
+                handleDelayedLinkClick("https://www.linkedin.com/in/sudhanshusekhar56/")
               }
               target="_blank"
               className="text-gray-400 hover:text-blue-600"
